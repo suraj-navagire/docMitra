@@ -1,0 +1,14 @@
+{
+  "name": "docmitra",
+  "version": "1.0.0",
+  "description": "This application helps doctors in their daily tasks like appointment scheduling , etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suraj Navagire",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
